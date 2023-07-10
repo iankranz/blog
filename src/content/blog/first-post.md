@@ -1,16 +1,26 @@
 ---
-title: 'First post'
-description: 'Lorem ipsum dolor sit amet'
-pubDate: 'Jul 08 2022'
-heroImage: '/placeholder-hero.jpg'
+title: "Why I like ChatGPT (First post)"
+description: "Introduction to Ian's blog plus some ChatGPT opinions"
+pubDate: "Jul 10 2023"
+heroImage: "/hero.jpg"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
+More articles coming soon
 
-Morbi tristique senectus et netus. Id semper risus in hendrerit gravida rutrum quisque non tellus. Habitasse platea dictumst quisque sagittis purus sit amet. Tellus molestie nunc non blandit massa. Cursus vitae congue mauris rhoncus. Accumsan tortor posuere ac ut. Fringilla urna porttitor rhoncus dolor. Elit ullamcorper dignissim cras tincidunt lobortis. In cursus turpis massa tincidunt dui ut ornare lectus. Integer feugiat scelerisque varius morbi enim nunc. Bibendum neque egestas congue quisque egestas diam. Cras ornare arcu dui vivamus arcu felis bibendum. Dignissim suspendisse in est ante in nibh mauris. Sed tempus urna et pharetra pharetra massa massa ultricies mi.
+You can go ahead and disregard this post. There's not much here.
 
-Mollis nunc sed id semper risus in. Convallis a cras semper auctor neque. Diam sit amet nisl suscipit. Lacus viverra vitae congue eu consequat ac felis donec. Egestas integer eget aliquet nibh praesent tristique magna sit amet. Eget magna fermentum iaculis eu non diam. In vitae turpis massa sed elementum. Tristique et egestas quis ipsum suspendisse ultrices. Eget lorem dolor sed viverra ipsum. Vel turpis nunc eget lorem dolor sed viverra. Posuere ac ut consequat semper viverra nam. Laoreet suspendisse interdum consectetur libero id faucibus. Diam phasellus vestibulum lorem sed risus ultricies tristique. Rhoncus dolor purus non enim praesent elementum facilisis. Ultrices tincidunt arcu non sodales neque. Tempus egestas sed sed risus pretium quam vulputate. Viverra suspendisse potenti nullam ac tortor vitae purus faucibus ornare. Fringilla urna porttitor rhoncus dolor purus non. Amet dictum sit amet justo donec enim.
+If you insist on continuing to read, I'll quickly explain why I'm really loving ChatGPT these days.
 
-Mattis ullamcorper velit sed ullamcorper morbi tincidunt. Tortor posuere ac ut consequat semper viverra. Tellus mauris a diam maecenas sed enim ut sem viverra. Venenatis urna cursus eget nunc scelerisque viverra mauris in. Arcu ac tortor dignissim convallis aenean et tortor at. Curabitur gravida arcu ac tortor dignissim convallis aenean et tortor. Egestas tellus rutrum tellus pellentesque eu. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet. Ut enim blandit volutpat maecenas volutpat blandit aliquam etiam. Id donec ultrices tincidunt arcu. Id cursus metus aliquam eleifend mi.
+So ChatGPT is just a brand basically. It's a proprietary LLM (Large Language Model) from OpenAI, a company who we are pretty sure is cool but TBD on that. It’s like how we all call tissues Kleenex even though Kleenex is the brand and not what the thing actually is. Yeah, same thing with ChatGPT. You can use other AIs that do basically the same thing but don’t have the well-known ChatGPT brand.
 
-Tempus quam pellentesque nec nam aliquam sem. Risus at ultrices mi tempus imperdiet. Id porta nibh venenatis cras sed felis eget velit. Ipsum a arcu cursus vitae. Facilisis magna etiam tempor orci eu lobortis elementum. Tincidunt dui ut ornare lectus sit. Quisque non tellus orci ac. Blandit libero volutpat sed cras. Nec tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Egestas integer eget aliquet nibh praesent tristique magna.
+Anyways, I’ve been using ChatGPT quite a bit because I’m not that great at skimming Google search results quickly. So when I have a question and I Google it, it takes forever for me to go through the links and look for the answers to my actual questions. Even then, I need to deal with a bunch of ads and other annoyances, like people asking to me to sign up for their newsletters.
+
+(By the way I do have a newsletter, but I’m not going to link it here, cus I’m a nice guy)
+
+But when I ask ChatGPT questions, the interface is much more simple and I know that if I craft my prompt well enough I can get the answers I’m looking for in one shot. Granted, I know ChatGPT can give false information, so I always fact check it before using the info. That, and it’s just a more simple interface for getting information.
+
+I also enjoy the conversational feel of the whole thing. Have you ever had someone shame you for asking them a question that they say is easily google-able. I think there’s more to it than just being an idiot who doesn’t know they can google stuff. Moreso, I think that some people enjoy learning about stuff in a conversational format, especially those of us who are not fast readers. Something about the interaction makes the information stick, and it’s nice to be able to add follow-ups easily. I think ChatGPT provides a similar environment, which is pretty cool.
+
+Mostly, I use it for random problems I have, a lot of which are coding-related. When I’m reading documentation, it’s like I have the documentation there as well as someone who has already read the documentation and who doesn’t mind answering my questions. It’s pretty solid, and I think it has contributed to my productivity. Also, I get to ask random stuff like what should you pack for a barbeque, and honestly it has helped me remember some stuff I would have forgotten.
+
+There you have it. There’s the content. I didn’t think I was going to write anything, but I did. Thanks for reading. See you!
