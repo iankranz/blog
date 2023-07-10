@@ -1,5 +1,5 @@
 ---
-title: "Why I like ChatGPT (First post)"
+title: "Why ChatGPT is actually pretty good"
 description: "Introduction to Ian's blog plus some ChatGPT opinions"
 pubDate: "Jul 10 2023"
 heroImage: "/hero.jpg"
